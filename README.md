@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brelane33
 - 👀 I’m interested in ... linux and cloud infrastructure
-- 🌱 I’m currently learning ... go
+- 🌱 I’m currently learning ... stuff
 - 💞️ collaborate on ... games, cli, cloud apps, web apps
 - 📫 How to reach me ... ardongo.bl@gmail.com
 - vim is superior
