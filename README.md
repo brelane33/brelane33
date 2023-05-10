@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brelane33
 - 🌱 I’m currently learning rust
 - 💞️ collaborate with me on stuff! 
-- 📫 How to reach me ... ardongo.bl@gmail.com
+- 📫 How to reach me ... please don't. for now.
 - vim is superior
 
 <!---
