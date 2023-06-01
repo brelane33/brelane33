@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brelane33
-- 🌱 I’m currently learning rust
+- 🌱 I’m currently learning all kinds of shit
 - 💞️ collaborate with me on stuff! 
 - 📫 How to reach me ... please don't. for now.
 - vim is superior
